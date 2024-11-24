@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "gitassignment"
+=======
+rootProject.name = "Assignment"
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
 include(":app")
  

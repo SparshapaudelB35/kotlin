@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+=======
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
     android:id="@+id/main"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     android:padding="50dp"
     tools:context=".MainActivity">
+=======
+    tools:context=".MainActivity"
+    android:padding="50dp">
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
 
     <TextView
         android:id="@+id/titleTextView"
@@ -15,7 +27,11 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginTop="8dp"
+<<<<<<< HEAD
         android:text="Your fries \n deserve better"
+=======
+        android:text="@string/your_fries_ndeserve_better"
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
         android:textColor="@color/red"
         android:textSize="28sp"
         android:textStyle="bold"
@@ -28,7 +44,11 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginTop="4dp"
+<<<<<<< HEAD
         android:text="Join tomatobasil now it's free"
+=======
+        android:text="@string/join_tomatobasil_now_it_s_free"
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
         android:textColor="@color/black"
         android:textSize="16sp"
 
@@ -43,7 +63,11 @@
         android:layout_marginStart="40dp"
         android:layout_marginEnd="40dp"
         android:layout_marginTop="20dp"
+<<<<<<< HEAD
         android:hint="FIRST NAME"
+=======
+        android:hint="@string/first_name"
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
         android:textStyle="normal"
         app:hintTextColor="@color/black"
         app:boxStrokeColor="@color/red"

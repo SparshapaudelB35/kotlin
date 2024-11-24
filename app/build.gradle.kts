@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.gitassignment"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.gitassignment"
+=======
+    namespace = "com.example.assignment"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.assignment"
+>>>>>>> 331a533c86270f3c6b6ac966e2f61cab078dd938
         minSdk = 24
         targetSdk = 34
         versionCode = 1
